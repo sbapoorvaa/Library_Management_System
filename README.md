@@ -1,2 +1,2 @@
 # Library_Management_System
-This project is a Library Management System which automates library tasks with user and librarian roles. Users browse, borrow, read, rate books; librarians approve requests. Search by section, title, author for easy navigation.
+This project is a Library Management System (LMS) developed to automate and streamline library operations. It features two login roles: user and librarian, each with specific privileges. Users can browse, borrow, read books, and provide ratings and comments. Librarians, in addition to user privileges, can approve or revoke book requests. The system offers search filters based on section, title, and author for easy navigation.
